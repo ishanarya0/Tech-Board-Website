@@ -6,7 +6,6 @@ const xclubIndexPageSchema = new mongoose.Schema({
 
 //member card data
 coordinators : [{
-    //member card data
     photo : String,
     name : String,
     about : String,
